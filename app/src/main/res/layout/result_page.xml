@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    tools:context=".ResultPage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/titles"
+        android:layout_margin="30dp"
+        android:text="Title"
+        android:textSize="@dimen/slide_title"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:background="@drawable/title"/>
+
+    <ImageView
+        android:id="@+id/image2"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_margin="10dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:orientation="vertical"
+        android:layout_marginLeft="10dp">
+
+        <Button
+            app:backgroundTint="@null"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:id="@+id/Information"
+            android:layout_width="331dp"
+            android:layout_height="wrap_content"
+            android:onClick="gotoInfo"
+            android:text="영양성분"
+            android:textAlignment="center"
+            android:textSize="@dimen/slide_title"
+            android:textColor="@color/black"
+            android:background="@drawable/click_button"
+            android:drawableLeft="@drawable/info"/>
+
+        <Button
+            app:backgroundTint="@null"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:id="@+id/Blog"
+            android:layout_width="331dp"
+            android:layout_height="wrap_content"
+            android:onClick="gotoBlog"
+            android:text="Blog"
+            android:textColor="@color/black"
+            android:drawableLeft="@drawable/blog"
+            android:background="@drawable/click_button"
+            android:textAlignment="center"
+            android:textSize="@dimen/slide_title"/>
+
+        <Button
+            app:backgroundTint="@null"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:id="@+id/YouTube"
+            android:onClick="gotoYoutube"
+            android:layout_width="331dp"
+            android:layout_height="wrap_content"
+            android:text="YouTube"
+            android:textSize="@dimen/slide_title"
+            android:background="@drawable/click_button"
+            android:drawableLeft="@drawable/youtube"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:gravity="center_horizontal"/>
+    </LinearLayout>
+</LinearLayout>
