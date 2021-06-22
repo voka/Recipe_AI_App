@@ -24,7 +24,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity  {
 
 
     @Override
@@ -73,11 +73,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
     //최근 검색기록 버튼
-    /*
+
     public void memorybutton(View v) {
-        Intent intent = new Intent(getApplicationContext(), ListActivity.class);
+        Intent intent = new Intent(getApplicationContext(), recent.class);
         startActivity(intent);
     }
-    */
+
 }
 

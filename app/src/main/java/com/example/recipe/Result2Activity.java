@@ -13,6 +13,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -23,38 +24,40 @@ import java.util.Date;
 
 import okhttp3.OkHttpClient;
 
-public class Result2Activity extends AppCompatActivity {
+public class Result2Activity extends BaseActivity {
 
     ImageView imageView;
     Button button,btnImageSend;
     File tempSelectFile;
     private ProgressDialog mProgressDialog;
     private Handler mHandler;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_result2);
         btnImageSend = findViewById(R.id.btnImageSend);
-        btnImageSend.setEnabled(false);
-
         mHandler = new Handler();
         btnImageSend.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view){
-                mProgressDialog = ProgressDialog.show(Result2Activity.this,"","잠시만 기다려 주세요!!" , true);
-                mProgressDialog.setCancelable(true);
-                FileUploadUtils.goSend(tempSelectFile);
-                mHandler.postDelayed(new Runnable(){
-                    @Override
-                    public void run(){
-                        Intent intent = new Intent(getApplicationContext(), select5.class);
-                        startActivity(intent);
-                    }
-                },10000);
+                if(tempSelectFile != null){
+                    mProgressDialog = ProgressDialog.show(Result2Activity.this,"","잠시만 기다려 주세요!!" , true);
+                    mProgressDialog.setCancelable(true);
+                    FileUploadUtils.goSend(tempSelectFile);
+                    mHandler.postDelayed(new Runnable(){
+                        @Override
+                        public void run(){
+                            Intent intent = new Intent(getApplicationContext(), select5.class);
+                            startActivity(intent);
+                        }
+                    },10000);
+                }
+                else{
+                    Toast.makeText(getApplicationContext(),"사진을 선택해 주세요", Toast.LENGTH_SHORT).show();
+                }
+
             }
         });
-
 
         button = (Button)findViewById(R.id.button);
         button.setOnClickListener(new View.OnClickListener() {
@@ -66,10 +69,7 @@ public class Result2Activity extends AppCompatActivity {
                 startActivityForResult(intent, 1);
             }
         });
-
         imageView = (ImageView)findViewById(R.id.image);
-
-
     }
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
@@ -85,7 +85,7 @@ public class Result2Activity extends AppCompatActivity {
                     in.close();
                     // 이미지 표시
                     imageView.setImageBitmap(img);
-
+                    store_response.img = img;
                     String date = new SimpleDateFormat("yyyy_MM_dd_hh_mm_ss").format(new Date());
                     tempSelectFile = new File(Environment.getExternalStorageDirectory()+"/Pictures/Test/", "temp_" + date + ".jpeg");
                     OutputStream out = new FileOutputStream(tempSelectFile);
@@ -94,17 +94,9 @@ public class Result2Activity extends AppCompatActivity {
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
-                btnImageSend.setEnabled(true);
 
             }
         }
     }
-
-    //눌렀을때 돌아가는 버튼
-    public void onBackButtonClicked(View v)
-    {
-        finish();
-    }
-
 
 }

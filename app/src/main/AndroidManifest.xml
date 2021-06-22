@@ -37,6 +37,7 @@
         <activity android:name=".ResultActivity"/>
         <activity android:name=".MainActivity">
         </activity>
+        <activity android:name=".recent" />
 
         <provider
             android:name="androidx.core.content.FileProvider"

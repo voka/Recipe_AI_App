@@ -19,10 +19,11 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-public class ResultPage extends AppCompatActivity {
+public class ResultPage extends BaseActivity {
     public String url ;
     String food;
     ImageView imageView;
+    Bitmap bmp = store_response.img;
 
     private void initLoadDB() {
         DataAdapter mDbHelper = new DataAdapter(getApplicationContext());
@@ -36,22 +37,13 @@ public class ResultPage extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.result_page);
         food = getIntent().getStringExtra("food");
+        imageView = (ImageView)findViewById(R.id.image2);
         TextView Title = findViewById(R.id.titles);
         Title.setText(food);
         initLoadDB();
-        String date = new SimpleDateFormat("yyyy_MM_dd_hh_mm_ss").format(new Date());
-        String file_path = Environment.getExternalStorageDirectory()+"/Pictures/Test/temp_"+ date + ".jpeg";
-        Bitmap bmp = BitmapFactory.decodeFile(file_path);
-        if(bmp == null){
-            Log.i("error","null img ㅜㅜㅜ");
-        }
-        Log.i("aa",food);
-        Log.i("aa",file_path);
-        Log.i("bb",food);
-        //imageView.setImageBitmap(bmp);
+        imageView.setImageBitmap(bmp);
+        store_response.plus(bmp,food);
     }
-
-
 
     public void gotoInfo(View v){
         String link = "https://www.myfitnesspal.com/ko/food/search?page=1&search="+food;
@@ -73,17 +65,14 @@ public class ResultPage extends AppCompatActivity {
         startActivity(intent);
     }
 
-
     public void onResume(){
         super.onResume();
         setContentView(R.layout.result_page);
         food = getIntent().getStringExtra("food");
         TextView Title = findViewById(R.id.titles);
         Title.setText(food);
-        String date = new SimpleDateFormat("yyyy_MM_dd_hh_mm_ss").format(new Date());
-        String file_path = Environment.getExternalStorageDirectory()+"/Pictures/Test/temp_"+ date + ".jpeg";
-        Bitmap bmp = BitmapFactory.decodeFile(file_path);
-        //imageView.setImageBitmap(bmp);
-
+        bmp = store_response.img;
+        imageView = (ImageView)findViewById(R.id.image2);
+        imageView.setImageBitmap(bmp);
     }
 }

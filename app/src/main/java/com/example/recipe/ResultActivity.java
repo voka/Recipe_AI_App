@@ -24,6 +24,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import org.w3c.dom.Text;
 
@@ -36,7 +37,7 @@ import java.io.OutputStream;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class ResultActivity extends AppCompatActivity {
+public class ResultActivity extends BaseActivity {
     final private static String TAG = "GILBOMI";
     Button btn_photo;
     Button btn_send;
@@ -84,16 +85,21 @@ public class ResultActivity extends AppCompatActivity {
         btn_send.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mProgressDialog = ProgressDialog.show(ResultActivity.this,"","잠시만 기다려 주세요!!" , true);
-                mProgressDialog.setCancelable(true);
-                FileUploadUtils.goSend(tempSelectFile);
-                mHandler.postDelayed(new Runnable(){
-                    @Override
-                    public void run(){
-                        Intent intent = new Intent(getApplicationContext(), select5.class);
-                        startActivity(intent);
-                    }
-                },10000);
+                if(tempSelectFile != null){
+                    mProgressDialog = ProgressDialog.show(ResultActivity.this,"","잠시만 기다려 주세요!!" , true);
+                    mProgressDialog.setCancelable(true);
+                    FileUploadUtils.goSend(tempSelectFile);
+                    mHandler.postDelayed(new Runnable(){
+                        @Override
+                        public void run(){
+                            Intent intent = new Intent(getApplicationContext(), select5.class);
+                            startActivity(intent);
+                        }
+                    },10000);
+                }
+                else{
+                    Toast.makeText(getApplicationContext(),"사진을 촬영해 주세요", Toast.LENGTH_SHORT).show();
+                }
             }
         });
     }
@@ -126,6 +132,7 @@ public class ResultActivity extends AppCompatActivity {
                                 bitmap = ImageDecoder.decodeBitmap(source);
                                 if (bitmap != null) {
                                     iv_photo.setImageBitmap(bitmap);
+                                    store_response.img = bitmap;
                                     InputStream in = getContentResolver().openInputStream(Uri.fromFile(file));
                                     Bitmap img = BitmapFactory.decodeStream(in);
                                     in.close();
@@ -188,9 +195,4 @@ public class ResultActivity extends AppCompatActivity {
         }
     }
 
-    //눌렀을때 돌아가는 버튼
-    public void onBackButtonClicked(View v)
-    {
-        finish();
-    }
 }
