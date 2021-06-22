@@ -1,0 +1,10 @@
+영양성분표?? 정보
+
+https://fdc.nal.usda.gov/fdc-app.html#/food-details/1103667/nutrients
+
+캐글 참고 사이트
+https://www.kaggle.com/imsparsh/food-classifier-mobilenetv2-resnet50-vgg16
+
+깃헙
+https://github.com/sejongresearch/FoodRecommender
+https://github.com/stratospark/food-101-keras
