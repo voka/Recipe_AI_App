@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_recipe_round.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_recipe_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red3.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\red3.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_travel.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-xxhdpi\\ic_travel.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_list.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_recipe_round.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_recipe_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_recipe.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_recipe.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food02.jpg.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\food02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_base.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_recipe.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_recipe.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_discount.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-mdpi\\ic_discount.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_food.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-xxhdpi\\ic_food.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_food.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-mdpi\\ic_food.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_travel.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-hdpi\\ic_travel.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_youtube.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_recipe.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_recipe.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_recipe_round.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_recipe_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_food.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-hdpi\\ic_food.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_recipe.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_recipe.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red4.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\red4.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food.jpg.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\food.jpg"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_food.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_food.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_movie.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-xhdpi\\ic_movie.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_recipe_foreground.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_recipe_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_recipe_round.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_recipe_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_recipe_foreground.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_recipe_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_discount.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-hdpi\\ic_discount.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_recipe_round.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_recipe_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide2.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\welcome_slide2.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result2.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\activity_result2.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blog.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\blog.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_recipe.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_click_button.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\click_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_movie.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-hdpi\\ic_movie.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food03.jpg.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\food03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_recent.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\recent.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\menu_mymenu.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\menu\\mymenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_recipe_foreground.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_recipe_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_movie.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-xxhdpi\\ic_movie.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_travel.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_travel.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_recipe_round.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_recipe_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_recipe.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_recipe.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide4.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\welcome_slide4.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide1.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\welcome_slide1.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chicken.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\chicken.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_travel.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-xhdpi\\ic_travel.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_movie.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_movie.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_travel.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-mdpi\\ic_travel.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_result_page.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\result_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chiken.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\chiken.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_recipe_foreground.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_recipe_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\title.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red2.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\red2.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_welcome_slide3.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\welcome_slide3.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_food.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-xhdpi\\ic_food.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food01.jpg.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\food01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_take_picture.JPG.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\take_picture.JPG"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_page.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\layout\\select_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_recipe_foreground.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_recipe_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\green.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_discount.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-xhdpi\\ic_discount.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_movie.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-mdpi\\ic_movie.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_discount.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable-xxhdpi\\ic_discount.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\chdls\\Desktop\\APP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_red.xml.flat",
+        "source": "C:\\Users\\chdls\\Desktop\\APP\\app\\src\\main\\res\\drawable\\background_red.xml"
+    }
+]

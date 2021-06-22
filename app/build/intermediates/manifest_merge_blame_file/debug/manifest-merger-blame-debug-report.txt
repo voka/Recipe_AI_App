@@ -1,0 +1,116 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.fooddetect"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:5:5-81
+11-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:6:5-65
+12-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:6:22-62
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:7:5-80
+13-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:8:5-67
+14-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:8:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:9:5-78
+15-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:9:22-76
+16
+17    <uses-feature
+17-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:11:5-13:35
+18        android:name="android.hardware.camera"
+18-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:12:9-47
+19        android:required="true" />
+19-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:13:9-32
+20
+21    <application
+21-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:15:5-51:19
+22        android:name="com.example.recipe.store_response"
+22-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:23:9-39
+23        android:allowBackup="true"
+23-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:16:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.5.0] C:\Users\chdls\.gradle\caches\transforms-2\files-2.1\5c4786bccfbaefa0f187e0e56044e26d\core-1.5.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher_recipe"
+26-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:17:9-50
+27        android:label="Recipe"
+27-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:18:9-31
+28        android:roundIcon="@mipmap/ic_launcher_recipe_round"
+28-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:19:9-61
+29        android:supportsRtl="true"
+29-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:20:9-35
+30        android:testOnly="true"
+31        android:theme="@style/Theme.Fooddetect"
+31-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:21:9-48
+32        android:usesCleartextTraffic="true" >
+32-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:22:9-44
+33        <activity
+33-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:24:9-33:16
+34            android:name="com.example.recipe.WelcomeActivity"
+34-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:25:9-40
+35            android:screenOrientation="portrait"
+35-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:26:9-45
+36            android:theme="@style/AppTheme.NoActionBar" >
+36-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:27:9-52
+37            <intent-filter>
+37-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:28:9-32:25
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:29:13-65
+38-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:29:21-62
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:31:13-73
+40-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:31:23-70
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="com.example.recipe.Result2Activity" />
+43-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:34:9-53
+43-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:34:19-50
+44        <activity android:name="com.example.recipe.select5" />
+44-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:35:9-45
+44-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:35:19-42
+45        <activity android:name="com.example.recipe.ResultPage" />
+45-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:36:9-48
+45-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:36:19-45
+46        <activity android:name="com.example.recipe.ResultActivity" />
+46-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:37:9-51
+46-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:37:19-49
+47        <activity android:name="com.example.recipe.MainActivity" >
+47-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:38:9-39:20
+47-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:38:19-47
+48        </activity>
+49        <activity android:name="com.example.recipe.recent" />
+49-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:40:9-44
+49-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:40:19-41
+50
+51        <provider
+51-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:42:9-50:20
+52            android:name="androidx.core.content.FileProvider"
+52-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:43:13-62
+53            android:authorities="com.example.recipe.fileprovider"
+53-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:44:13-66
+54            android:exported="false"
+54-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:45:13-37
+55            android:grantUriPermissions="true" >
+55-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:46:13-47
+56            <meta-data
+56-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:47:13-49:54
+57                android:name="android.support.FILE_PROVIDER_PATHS"
+57-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:48:17-67
+58                android:resource="@xml/file_paths" />
+58-->C:\Users\chdls\Desktop\APP\app\src\main\AndroidManifest.xml:49:17-51
+59        </provider>
+60    </application>
+61
+62</manifest>
